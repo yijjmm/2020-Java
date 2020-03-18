@@ -10,7 +10,6 @@ class Hello {
 		// 서식지정자 사용불가
 		
 		// 모니터 = 표준출력 = System.out
-		
 	}
 }
 
